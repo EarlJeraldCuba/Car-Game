@@ -1,0 +1,20 @@
+C:\Users\Win10\source\repos\CAR RACING GAME\CAR RACING GAME\bin\Debug\CAR RACING GAME.exe.config
+C:\Users\Win10\source\repos\CAR RACING GAME\CAR RACING GAME\bin\Debug\CAR RACING GAME.exe
+C:\Users\Win10\source\repos\CAR RACING GAME\CAR RACING GAME\bin\Debug\CAR RACING GAME.pdb
+C:\Users\Win10\source\repos\CAR RACING GAME\CAR RACING GAME\obj\Debug\CAR RACING GAME.csproj.AssemblyReference.cache
+C:\Users\Win10\source\repos\CAR RACING GAME\CAR RACING GAME\obj\Debug\CAR_RACING_GAME.Form1.resources
+C:\Users\Win10\source\repos\CAR RACING GAME\CAR RACING GAME\obj\Debug\CAR_RACING_GAME.Properties.Resources.resources
+C:\Users\Win10\source\repos\CAR RACING GAME\CAR RACING GAME\obj\Debug\CAR RACING GAME.csproj.GenerateResource.cache
+C:\Users\Win10\source\repos\CAR RACING GAME\CAR RACING GAME\obj\Debug\CAR RACING GAME.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\CAR RACING GAME\CAR RACING GAME\obj\Debug\CAR RACING GAME.exe
+C:\Users\Win10\source\repos\CAR RACING GAME\CAR RACING GAME\obj\Debug\CAR RACING GAME.pdb
+C:\Users\Win10\Desktop\game assets\SIMPLE 2G GAME\CAR RACING GAME\CAR RACING GAME\bin\Debug\CAR RACING GAME.exe.config
+C:\Users\Win10\Desktop\game assets\SIMPLE 2G GAME\CAR RACING GAME\CAR RACING GAME\bin\Debug\CAR RACING GAME.exe
+C:\Users\Win10\Desktop\game assets\SIMPLE 2G GAME\CAR RACING GAME\CAR RACING GAME\bin\Debug\CAR RACING GAME.pdb
+C:\Users\Win10\Desktop\game assets\SIMPLE 2G GAME\CAR RACING GAME\CAR RACING GAME\obj\Debug\CAR RACING GAME.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\game assets\SIMPLE 2G GAME\CAR RACING GAME\CAR RACING GAME\obj\Debug\CAR_RACING_GAME.Form1.resources
+C:\Users\Win10\Desktop\game assets\SIMPLE 2G GAME\CAR RACING GAME\CAR RACING GAME\obj\Debug\CAR_RACING_GAME.Properties.Resources.resources
+C:\Users\Win10\Desktop\game assets\SIMPLE 2G GAME\CAR RACING GAME\CAR RACING GAME\obj\Debug\CAR RACING GAME.csproj.GenerateResource.cache
+C:\Users\Win10\Desktop\game assets\SIMPLE 2G GAME\CAR RACING GAME\CAR RACING GAME\obj\Debug\CAR RACING GAME.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\game assets\SIMPLE 2G GAME\CAR RACING GAME\CAR RACING GAME\obj\Debug\CAR RACING GAME.exe
+C:\Users\Win10\Desktop\game assets\SIMPLE 2G GAME\CAR RACING GAME\CAR RACING GAME\obj\Debug\CAR RACING GAME.pdb
